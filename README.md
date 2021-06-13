@@ -33,11 +33,15 @@ Using shifts and reassignments, we move pixels from the original image location 
 
 ## Presentation:
 [PDF presentation](https://github.com/lll-phill-lll/gaze_correction/blob/master/presentation.pdf)
+
 [Video presentation](https://youtu.be/GSdnbT9DE1Q)
 
 
 ## Results:
 <img src="https://github.com/lll-phill-lll/gaze_correction/blob/master/images/results.png" width=50% height=50%>
+
+## Eye detection:
+<img src="https://github.com/lll-phill-lll/gaze_correction/blob/master/images/eye_detection.png" width=50% height=50%>
 
 ## Gif demo:
 ![Demo](images/demo.gif)
