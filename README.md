@@ -37,8 +37,7 @@ Using shifts and reassignments, we move pixels from the original image location 
 
 
 ## Results:
-<img src="https://github.com/sk-nlp-team/misinformation_detection/blob/main/images/loss_bert_many_splits.png" width=50% height=50%>
-![Results](https://github.com/lll-phill-lll/gaze_correction/blob/master/images/results.png)
+<img src="https://github.com/lll-phill-lll/gaze_correction/blob/master/images/results.png" width=50% height=50%>
 
 ## Gif demo:
 ![Demo](images/demo.gif)
