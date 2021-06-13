@@ -45,3 +45,7 @@ Using shifts and reassignments, we move pixels from the original image location 
 
 ## Gif demo:
 ![Demo](images/demo.gif)
+
+
+Authors: [Ildar Gabdrakhmanov](https://github.com/KotShredinger),  [Mikhail Filitov](https://github.com/lll-phill-lll), [Varvara Shushkova](https://github.com/shushkova)
+----------
